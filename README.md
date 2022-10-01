@@ -15,6 +15,12 @@
 </a>
 <a href="https://www.youtube.com/user/Dev_coder" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/emmanuelomoiya" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://hashnode.com/@emmanuel558" target="_blank">
+<img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a>  
   
 
@@ -103,13 +109,3 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=EmmanuelOmoiya&&style=flat-square)  
   
-
-<br/>  
-
-<div align="left">
-            <a href="https://www.buymeacoffee.com/devemmanuel" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="left"
-                />
-            </a></div>
