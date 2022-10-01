@@ -35,7 +35,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <br/>  
 
 
-## Rapidfire  
+## My Skill Set  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [Netflix Clone](https://github.com/EmmanuelOmoiya?tab=repositories)  
