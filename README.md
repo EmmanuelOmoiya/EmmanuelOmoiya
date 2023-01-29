@@ -31,7 +31,7 @@ I'm a captain using experiences gained throughout the years in Shipping outstand
 <br/>  
 
 # 💫 About Me:
-🔭 I’m currently working on my blop<br><br>🌱 I’m currently learning TypeScript<br><br>❓ Ask me about anything related to MERN stack and related technologies<br><br>⚡ Fun fact: I prefer tab to spaces
+🔭 I’m currently working on my blog<br><br>🌱 I’m currently learning TypeScript<br><br>❓ Ask me about anything related to MERN stack and related technologies<br><br>⚡ Fun fact: I prefer tab to spaces
 
 
 ## 🌐 Socials:
