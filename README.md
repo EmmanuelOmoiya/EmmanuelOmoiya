@@ -26,6 +26,11 @@
 
 
 ### Glad to see you here!  
+
+
+<br/>  
+
+# 💫 About Me:
 As a Full Stack Web Developer with a passion for creating elegant and intuitive web applications, I bring a unique blend of technical expertise and creative vision to every project I work on. With over 2 years of experience in the field, I have honed my skills in Html, CSS, JavaScript, React, Next, Svelte, Vue, MongoDB, NodeJs, ExpressJs and have a proven track record of delivering high-quality web solutions that exceed client expectations.
 
 I am a highly collaborative team player, always seeking out opportunities to learn from and contribute to my colleagues. Whether I'm working on the front-end or back-end of an application, I am constantly striving to create a seamless user experience that combines form and function in a way that delights users.
@@ -36,9 +41,6 @@ In addition to my technical skills, I am also a highly effective communicator, a
 
 If you're looking for a Full Stack Web Developer who can bring a fresh perspective and a wealth of experience to your team, I would love to connect and discuss how I can help you achieve your goals. Let's work together to create web applications that are both beautiful and functional.
 
-<br/>  
-
-# 💫 About Me:
 🔭 I’m currently working on my blog<br><br>🌱 I’m currently learning TypeScript<br><br>❓ Ask me about anything related to MERN stack and related technologies<br><br>⚡ Fun fact: I prefer tab to spaces
 
 
