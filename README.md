@@ -25,6 +25,8 @@
 <a href="https://hashnode.com/@emmanuel558" target="_blank">
 <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a>  
+
+## [Resume](https://drive.google.com/file/d/1TeHTYEH6BZEr8UABq4WMzFhRMfBg4vLt/view?usp=drivesdk)
                
 ### Glad to see you here! [![](https://visitcount.itsvg.in/api?id=EmmanuelOmoiya&icon=2&color=0)](https://visitcount.itsvg.in)  
 
