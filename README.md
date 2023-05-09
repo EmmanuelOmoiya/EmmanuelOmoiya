@@ -31,15 +31,19 @@
 ### Glad to see you here! [![](https://visitcount.itsvg.in/api?id=EmmanuelOmoiya&icon=2&color=0)](https://visitcount.itsvg.in)  
 
 # 💫 About Me:
-As a Full Stack Web Developer with a passion for creating elegant and intuitive web applications, I bring a unique blend of technical expertise and creative vision to every project I work on. With over 2 years of experience in the field, I have honed my skills in Html, CSS, JavaScript, React, Next, Svelte, Vue, MongoDB, NodeJs, ExpressJs and have a proven track record of delivering high-quality web solutions that exceed client expectations.
+Hey there! 👋 I'm a Full Stack Web Developer with a passion for creating elegant and intuitive web applications. 💻
 
-I am a highly collaborative team player, always seeking out opportunities to learn from and contribute to my colleagues. Whether I'm working on the front-end or back-end of an application, I am constantly striving to create a seamless user experience that combines form and function in a way that delights users.
+🚀 Here are some quick highlights about me:
 
-My expertise includes  front-end development, back-end development, database design, UI/UX conversion, etc. and I am always on the lookout for new tools and technologies to incorporate into my work. I believe that staying up-to-date with the latest trends and best practices is key to creating web applications that are both functional and visually stunning.
+- 2+ years of experience
+- Proficient in Html, CSS, JavaScript, React, Next, Svelte, Vue, MongoDB, NodeJs, ExpressJs, and more!
+- Strong background in front-end development, back-end development, database design, UI/UX conversion, etc.
+- Committed to staying up-to-date with the latest trends and best practices
+- Highly effective communicator
 
-In addition to my technical skills, I am also a highly effective communicator, able to convey complex technical concepts to stakeholders at all levels of an organization. I understand the importance of clear and consistent communication in the development process, and work tirelessly to ensure that my clients are always kept in the loop and satisfied with the progress of their projects.
+🌟 I love collaborating with others and constantly seeking out opportunities to learn and grow. Whether I'm working on the front-end or back-end of an application, I'm always striving to create a seamless user experience that combines form and function in a way that delights users. 😊
 
-If you're looking for a Full Stack Web Developer who can bring a fresh perspective and a wealth of experience to your team, I would love to connect and discuss how I can help you achieve your goals. Let's work together to create web applications that are both beautiful and functional.
+If you're interested in working together, feel free to reach out and let's create something amazing! 🤝
 
 🔭 I’m currently working on an E-commerce Site<br><br>🌱 I’m currently learning Remix.js<br><br>❓ Ask me about anything related to MERN stack and related technologies e.g TypeScript, Svelte/Kit, VueJs, NextJs, ExpressJs, Git<br><br>⚡ Fun fact: I prefer tab to spaces
 
