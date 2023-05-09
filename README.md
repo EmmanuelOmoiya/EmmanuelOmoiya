@@ -37,7 +37,7 @@ Hey there! 👋 I'm a Full Stack Web Developer with a passion for creating elega
 
 - 2+ years of experience
 - Proficient in Html, CSS, JavaScript, React, Next, Svelte, Vue, MongoDB, NodeJs, ExpressJs, and more!
-- Strong background in front-end development, back-end development, database design, UI/UX conversion, etc.
+- Strong background in front-end development, back-end development, database design, devops, systems architecture, UI/UX conversion, etc.
 - Committed to staying up-to-date with the latest trends and best practices
 - Highly effective communicator
 
@@ -45,7 +45,7 @@ Hey there! 👋 I'm a Full Stack Web Developer with a passion for creating elega
 
 If you're interested in working together, feel free to reach out and let's create something amazing! 🤝
 
-🔭 I’m currently working on an E-commerce Site<br><br>🌱 I’m currently learning Remix.js<br><br>❓ Ask me about anything related to MERN stack and related technologies e.g TypeScript, Svelte/Kit, VueJs, NextJs, ExpressJs, Git<br><br>⚡ Fun fact: I prefer tab to spaces
+❓ Ask me about anything related to MERN stack and related technologies e.g TypeScript, Svelte/Kit, VueJs, NextJs, ExpressJs, Git<br><br>⚡ Fun fact: I prefer tab to spaces
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
