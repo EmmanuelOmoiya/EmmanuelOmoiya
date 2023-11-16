@@ -1,7 +1,4 @@
-![Slice 1 (1)](https://user-images.githubusercontent.com/79797604/222971530-c1314ae1-4286-45bf-a8b3-fa70a4839f74.png)
-
-
-## Hi there, I'm Emmanuel <span style="color: purple">Omoiya</span>  👋 
+# Hi there, I'm Emmanuel <span style="color: purple">Omoiya</span>  👋 
   
 
 <a href="https://github.com/EmmanuelOmoiya" target="_blank">
@@ -25,27 +22,15 @@
 <a href="https://hashnode.com/@emmanuel558" target="_blank">
 <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a>  
-
-## [Resume](https://drive.google.com/file/d/1TeHTYEH6BZEr8UABq4WMzFhRMfBg4vLt/view?usp=drivesdk)
-               
-### Glad to see you here! [![](https://visitcount.itsvg.in/api?id=EmmanuelOmoiya&icon=2&color=0)](https://visitcount.itsvg.in)  
-
+              
 # 💫 About Me:
-Hey there! 👋 I'm a Full Stack Web Developer with a passion for creating elegant and intuitive web applications. 💻
-
-🚀 Here are some quick highlights about me:
-
-- 2+ years of experience
-- Proficient in Html, CSS, JavaScript, React, Next, Svelte, Vue, MongoDB, NodeJs, ExpressJs, and more!
-- Strong background in front-end development, back-end development, database design, devops, systems architecture, UI/UX conversion, etc.
-- Committed to staying up-to-date with the latest trends and best practices
-- Highly effective communicator
+I'm a Software Enginner with a knack for creating elegant and intuitive sofwares ranging from web applications, mobile apps(IOS/Android), devops, to systems design. 💻
 
 🌟 I love collaborating with others and constantly seeking out opportunities to learn and grow. Whether I'm working on the front-end or back-end of an application, I'm always striving to create a seamless user experience that combines form and function in a way that delights users. 😊
 
 If you're interested in working together, feel free to reach out and let's create something amazing! 🤝
 
-❓ Ask me about anything related to MERN stack and related technologies e.g TypeScript, Svelte/Kit, VueJs, NextJs, ExpressJs, Git<br><br>⚡ Fun fact: I prefer tab to spaces
+❓ Ask me about anything related to Sofware/Mechatronics Engineering e.g TypeScript, Svelte/Kit, VueJs, NextJs, ExpressJs, Git, C++, JavaScript, HTML, CSS, Python, NodeJs, ExpressJs, CircleCI, Jenkins, Github Actions, Arduino, C, Docker... <br><br>⚡ Fun fact: I prefer tab to spaces
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -55,9 +40,6 @@ If you're interested in working together, feel free to reach out and let's creat
 ![](https://github-readme-stats.vercel.app/api?username=EmmanuelOmoiya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelOmoiya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelOmoiya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Emmanuel_Omoiya)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
