@@ -24,7 +24,7 @@
 </a>  
               
 # 💫 About Me:
-I'm a Software Enginner with a knack for creating elegant and intuitive sofwares ranging from web applications, mobile apps(IOS/Android), devops, to systems design. 💻
+I'm a Software Engineer with a knack for creating elegant and intuitive sofwares ranging from web applications, mobile apps(IOS/Android), devops, to systems design. 💻
 
 🌟 I love collaborating with others and constantly seeking out opportunities to learn and grow. Whether I'm working on the front-end or back-end of an application, I'm always striving to create a seamless user experience that combines form and function in a way that delights users. 😊
 
