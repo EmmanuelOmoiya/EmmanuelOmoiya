@@ -24,13 +24,24 @@
 </a>  
               
 # 💫 About Me:
-I'm a Software Engineer with a knack for creating elegant and intuitive sofwares ranging from web applications, mobile apps(IOS/Android), devops, to systems design. 💻
+I architect high-performance, distributed systems where software meets precision engineering. With over 4 years of experience and a foundation in Mechatronics, I specialize in building scalable fintech infrastructures, AI-driven business solutions, and multi-tenant marketplaces that handle millions in volume.
 
-🌟 I love collaborating with others and constantly seeking out opportunities to learn and grow. Whether I'm working on the front-end or back-end of an application, I'm always striving to create a seamless user experience that combines form and function in a way that delights users. 😊
+- **Current Focus**: Architecting low-latency backend systems, autonomous agentic AI, and robust transactional engines.
 
-If you're interested in working together, feel free to reach out and let's create something amazing! 🤝
+- **Engineering Philosophy**: I prioritize PostgreSQL transactional integrity, ACID compliance, and sub-millisecond execution through optimized Redis queuing and Go/Node.js microservices.
 
-❓ Ask me about anything related to Sofware/Mechatronics Engineering e.g TypeScript, Svelte/Kit, VueJs, NextJs, ExpressJs, Git, C++, JavaScript, HTML, CSS, Python, NodeJs, ExpressJs, CircleCI, Jenkins, Github Actions, Arduino, C, Docker... <br><br>⚡ Fun fact: I prefer tab to spaces
+- **Infrastructure**: Championing Docker-first development and automated GitHub Actions pipelines for seamless, zero-downtime production deployments.
+
+❓Ask me about:
+
+- **Core Stack**: Next.js 15 (App Router/RSC), NestJS, Golang, Python, PostgreSQL, MongoDB.
+
+- **Systems & DevOps**: Redis Pub/Sub, Background Workers, Docker, AWS (EC2/S3/CloudFront), Cloudflare R2.
+
+- **Mechatronics**: Control Systems, Robotics Design (Arduino/C++), and Industrial Automation.
+
+Building at Scale with Drams Studio. <br>🛠️ Let’s engineer something resilient.
+
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
